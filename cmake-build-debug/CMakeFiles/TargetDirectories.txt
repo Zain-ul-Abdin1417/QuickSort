@@ -1,0 +1,3 @@
+H:/Data Structures and Algos/Algorithms/QuickSort in C++/cmake-build-debug/CMakeFiles/QuickSort_in_C__.dir
+H:/Data Structures and Algos/Algorithms/QuickSort in C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Data Structures and Algos/Algorithms/QuickSort in C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
